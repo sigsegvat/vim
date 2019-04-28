@@ -1,0 +1,10 @@
+set ruler
+set history=500
+set incsearch
+syntax enable
+set encoding=utf8
+set nobackup
+set nowb
+set noswapfile
+set laststatus=2
+set number
