@@ -1,6 +1,8 @@
+set nocompatible
 set ruler
 set history=500
 set incsearch
+set hlsearch
 syntax enable
 set encoding=utf8
 set nobackup
@@ -8,3 +10,7 @@ set nowb
 set noswapfile
 set laststatus=2
 set number
+filetype plugin on
+filetype indent on
+let g:netrw_banner = 0
+set clipboard=unnamedplus
