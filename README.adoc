@@ -1,0 +1,11 @@
+= personal image:vim_small.gif[vim] repository
+
+I started learning vim a few weeks ago and keep track of usefull resources and my `vimrc` file here.
+
+== start learning with no experience
+
+* play https://vim-adventures.com/[vim adventures] for learning the movements
+* "play" vimtutor several times
+* watch the videos from https://www.youtube.com/user/ThoughtbotVideo/search?query=vim[thoughtbot]
+* solve some http://www.vimgolf.com/[vimgolf] challenges
+
