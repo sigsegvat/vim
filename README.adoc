@@ -1,4 +1,4 @@
-= personal image:vim_small.gif[vim] repository
+= personal vim repository
 
 I started learning vim a few weeks ago and keep track of usefull resources and my `vimrc` file here.
 

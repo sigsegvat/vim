@@ -1,7 +1,7 @@
 
 function! s:Prettier()
 	let cmd = "%!npx prettier --parser html"
-	echo cmd
+	redraw
 	execute cmd
 endfunction
 
